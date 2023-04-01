@@ -70,7 +70,7 @@ def song(client, message):
 **❖ ᴛɪᴛʟᴇ ›› [{title}]({link})**
 **❖ ᴅᴜʀᴀᴛɪᴏɴ ›› {duration}**
 **❖ sᴜʙsᴄʀɪʙᴇ ›› [ᴏᴘᴜsᴛᴇᴄʜᴢ](https://youtube.com/OpusTechz)**
-**❖ ᴘᴏᴡᴇʀᴅ ʙʏ ›› [ᴀᴊᴀx](https://t.me/Devil0bot_Bot)**
+**❖ ᴘᴏᴡᴇʀᴅ ʙʏ ›› [ᴀᴀᴅʜɪ](https://t.me/AboutAadhi)**
 **❖ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ›› {rpk}**
 """
         secmul, dur, dur_arr = 1, 0, duration.split(':')
